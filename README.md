@@ -9,3 +9,8 @@ The abstract can be read below and attached it's also the published paper.
 Abstract—
 Silicone rubber insulators have been favoured over conventional insulators to be adopted on high-voltage power systems due to their hydrophobic properties and better performance in polluted environments. However, dry-bands and discharges can still be initiated on the polluted surfaces of polymeric insulators causing surface degradation and lifetime reduction. This paper presents a new procedure that identifies and assesses the location and frequency of electrical stresses such as discharges and partial arcs on high-voltage insulator surface, by analyzing visual recordings. The procedure is based on image analysis and deep learning techniques to be fully automatic and to minimize user intervention. Also, a MATLAB GUI was developed to provide fast and user-friendly control of all steps of the analysis and its results.
 
+![image](https://github.com/Timotheos96/HV_InsulatorAnalysis_tool/blob/master/Annotation%202020-04-15%20184640.png)
+
+![image](https://github.com/Timotheos96/HV_InsulatorAnalysis_tool/blob/master/Annotation%202020-04-15%20184702.png)
+
+![image](https://github.com/Timotheos96/HV_InsulatorAnalysis_tool/blob/master/Annotation%202020-04-15%20184718.png)
